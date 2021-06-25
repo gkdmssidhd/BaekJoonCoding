@@ -15,5 +15,7 @@ public class Main05 {
 				System.out.println("Case #" + i + ":" + (A+B));
 			}
 		}
+		System.out.println("종료");
+		scan.close();
 	}
 }
